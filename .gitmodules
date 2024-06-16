@@ -1,3 +1,6 @@
 [submodule "Busso"]
 	path = Busso
 	url = git@github.com:xifengcoder/Busso.git
+[submodule "RayDi"]
+	path = RayDi
+	url = git@github.com:xifengcoder/RayDi.git
